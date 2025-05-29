@@ -1,0 +1,6 @@
+C:\Users\Kab-35-16\source\repos\Задача 2\bin\Debug\Задача 2.exe.config
+C:\Users\Kab-35-16\source\repos\Задача 2\bin\Debug\Задача 2.exe
+C:\Users\Kab-35-16\source\repos\Задача 2\bin\Debug\Задача 2.pdb
+C:\Users\Kab-35-16\source\repos\Задача 2\obj\Debug\Задача 2.csproj.CoreCompileInputs.cache
+C:\Users\Kab-35-16\source\repos\Задача 2\obj\Debug\Задача 2.exe
+C:\Users\Kab-35-16\source\repos\Задача 2\obj\Debug\Задача 2.pdb
